@@ -6,5 +6,5 @@ Architecture overview:
 
 Release notes: 
 
-- v0.2 (fronted performance boost): [arcsi](https://github.com/lahmacunradio/arcsi/releases/tag/0.2) and [frontend](https://github.com/lahmacunradio/frontend/releases/tag/0.2) only compatible together
-- v0.2.1 (new show page formatting): [arcsi](https://github.com/lahmacunradio/arcsi/releases/tag/0.2.1) and [frontend](https://github.com/lahmacunradio/frontend/releases/tag/0.2.1) only compatible together
+- v0.2 (fronted performance boost): [arcsi v0.2](https://github.com/lahmacunradio/arcsi/releases/tag/0.2) and [frontend v0.2](https://github.com/lahmacunradio/frontend/releases/tag/0.2) only compatible together
+- v0.2.1 (new show page formatting): [arcsi v0.2.1](https://github.com/lahmacunradio/arcsi/releases/tag/0.2.1) and [frontend v0.2.1](https://github.com/lahmacunradio/frontend/releases/tag/0.2.1) only compatible together
